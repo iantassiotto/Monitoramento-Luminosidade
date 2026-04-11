@@ -1,7 +1,7 @@
 ## Projeto_CP1_Monitoramento_Luminosidade
 Sistema de Monitoramento de Luminosidade desenvolvido para a Vinheria Agnello.
 
-## 📌Descrição do Projeto
+# 📌Descrição do Projeto
 
 Este projeto implementa um sistema de monitoramento de luminosidade utilizando um sensor LDR conectado a um Arduino. A intensidade da luz ambiente é convertida em uma porcentagem (0% a 100%) e exibida em um display LCD 16x2.
 
