@@ -1,4 +1,4 @@
-# Projeto-CP1: Sistema Monitoramento de Luminosidade
+# Sistema Monitoramento de Luminosidade
 Desenvolvido para a Vinheria Agnello.
 
 ## 📌Descrição do Projeto
